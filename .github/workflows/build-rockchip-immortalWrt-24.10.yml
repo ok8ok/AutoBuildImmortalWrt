@@ -59,8 +59,8 @@ on:
         default: '2048'
       enable_pppoe:
         description: "是否配置PPPoE拨号信息?"
-        required: true
-        default: 'no'
+        required: false
+        default: 'yes'
         type: choice
         options:
         - 'yes'
