@@ -68,7 +68,7 @@ on:
       pppoe_account:
         description: "宽带账号 (若启用PPPoE)"
         required: false
-      pppoe_password: '123123'
+      pppoe_password:
         description: "宽带密码 (若启用PPPoE)"
         required: false
 
