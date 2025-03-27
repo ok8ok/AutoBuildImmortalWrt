@@ -69,7 +69,7 @@ on:
         description: "宽带账号 (若启用PPPoE)"
         required: false
       pppoe_password:
-        description: "宽带密码 (若启用PPPoE)"
+        description: "123123"
         required: false
 
 jobs:
